@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    callr (1.2.0)
+      json (>= 1.8.1)
+    json (2.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  callr
+
+BUNDLED WITH
+   2.0.1
